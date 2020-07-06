@@ -1,0 +1,32 @@
+/* Created by Sheliza wanjiru */
+/*made with fun and love*/
+
+body{
+    
+}
+
+.main{
+    background:linear-gradient(gold,silver,olive,orange,maroon,cyan);
+}
+
+.thanks{ font-family:cursive;
+    font-size:300%;
+
+    color:white;
+     background-color:000000;
+     border:none;
+    margin:10;
+    padding:10;
+    text-shadow:1px 2px 1px magenta;
+}
+
+.end{font-family:"sans serif";
+    font-size:200%;
+    color:00000;
+     border:none;
+     text-shadow:1px 2px 1px olive;
+    }
+
+#song{
+    display:none;
+}
